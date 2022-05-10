@@ -31,4 +31,3 @@ Para complementar este projeto, crie uma tarefa agendada que execute uma vez ao 
 ## Dúvidas
 
 Abra um [problema](https://github.com/perfect-flight/test-case-backend/issues/new) que responderemos o mais rápido possível.
-# test-case-backend
